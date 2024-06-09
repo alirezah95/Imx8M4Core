@@ -1,0 +1,9 @@
+{
+    "cmake.configureArgs": [
+        "-DCMAKE_TOOLCHAIN_FILE=./SDK_2_14_0_EVK-MIMX8MM/tools/cmake_toolchain_files/armgcc.cmake",
+        "-DSdkRootDirPath=./SDK_2_14_0_EVK-MIMX8MM"
+    ],
+    "cmake.configureEnvironment": {
+        "ARMGCC_DIR": "/usr"
+    }
+}

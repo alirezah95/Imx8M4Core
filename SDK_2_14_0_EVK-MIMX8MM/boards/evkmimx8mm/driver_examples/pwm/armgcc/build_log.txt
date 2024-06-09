@@ -1,0 +1,28 @@
+[ 13%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/board.c.obj
+[ 13%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/pin_mux.c.obj
+[ 13%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/pwm.c.obj
+[ 22%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/components/lists/fsl_component_generic_list.c.obj
+[ 22%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/components/uart/fsl_adapter_iuart.c.obj
+[ 27%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/clock_config.c.obj
+[ 31%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/empty_rsc_table.c.obj
+[ 40%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/drivers/fsl_common.c.obj
+[ 40%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/drivers/fsl_common_arm.c.obj
+[ 45%] Building ASM object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/gcc/startup_MIMX8MM6_cm4.S.obj
+[ 50%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/system_MIMX8MM6_cm4.c.obj
+[ 54%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/drivers/fsl_pwm.c.obj
+[ 59%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/drivers/fsl_clock.c.obj
+[ 63%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/utilities/fsl_syscall_stub.c.obj
+[ 68%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/drivers/fsl_uart.c.obj
+[ 72%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/drivers/fsl_rdc.c.obj
+[ 77%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/utilities/fsl_sbrk.c.obj
+[ 81%] Building ASM object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/utilities/fsl_memcpy.S.obj
+[ 86%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/utilities/str/fsl_str.c.obj
+[ 90%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/utilities/debug_console_lite/fsl_assert.c.obj
+[ 95%] Building C object CMakeFiles/ipwm.elf.dir/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/devices/MIMX8MM6/utilities/debug_console_lite/fsl_debug_console.c.obj
+[100%] Linking C executable release/ipwm.elf
+Memory region         Used Size  Region Size  %age Used
+    m_interrupts:         576 B        576 B    100.00%
+          m_text:        6832 B     130496 B      5.24%
+          m_data:        2696 B       128 KB      2.06%
+         m_data2:          0 GB        16 MB      0.00%
+[100%] Built target ipwm.elf

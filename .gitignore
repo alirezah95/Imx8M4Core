@@ -52,4 +52,9 @@ Mkfile.old
 dkms.conf
 
 .settings/
-/Debug/
+Debug/
+Release/
+build/
+.vscode-ctags
+# SDK_*/
+

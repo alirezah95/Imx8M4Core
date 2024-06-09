@@ -1,0 +1,3 @@
+/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/armgcc/CMakeFiles/ipwm.elf.dir
+/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/armgcc/CMakeFiles/edit_cache.dir
+/home/alireza/repos/1-me/Imx8M4Core/SDK_2_14_0_EVK-MIMX8MM/boards/evkmimx8mm/driver_examples/pwm/armgcc/CMakeFiles/rebuild_cache.dir
